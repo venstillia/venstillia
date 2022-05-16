@@ -10,7 +10,7 @@ I like coding and will most likely do anything just for the hell of it. I'm also
 
 
 - 👋 Hi, I’m @venstillia
-- 👀 I’m interested in Java, JS, Python, C, C#, Swift, PHP, CSS
+- 👀 I’m interested in and can do Java, JS, Python, C, C#, Swift, PHP, CSS
 - 🌱 I’m currently learning C++
 - ⭐ AAA 14U Hockey Player
 - ⭐ 4 UTR Tennis Player
