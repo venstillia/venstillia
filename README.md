@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Websites
 - 📫 How to reach me vpilge19@gmail.com
+- ⭐ AAA Hockey Player
+- ⭐ 4 UTR Tennis Player
+- 
 
 <!---
 venstillia/venstillia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
