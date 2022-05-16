@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @venstillia
-- 👀 I’m interested in Java, JS, Python, C, C#, Swift, PHP
+- 👀 I’m interested in Java, JS, Python, C, C#, Swift, PHP, CSS
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Websites
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me vpilge19@gmail.com
+- [![trophy](https://github-profile-trophy.vercel.app/venstilliaryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 - ⭐ AAA Hockey Player
 - ⭐ 4 UTR Tennis Player
 - 😈 My Discord is vaL#6085
