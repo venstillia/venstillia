@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!;Java,+JS,+and+HTML+Coder;Check+out+my+bio!;Check+out+my+repositories!;">
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!;Java,+JS,+CSSm+HTML,+Python,+PHP, C,+and+C#,Coder;Check+out+my+bio!;Check+out+my+repositories!;">
 
 I like coding and will most likely do anything just for the hell of it. I'm also bored af so feel free to reach out to me if you want to collab!
 
